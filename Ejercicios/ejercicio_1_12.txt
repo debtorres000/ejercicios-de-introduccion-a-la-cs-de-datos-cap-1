@@ -1,0 +1,9 @@
+Ejercicio 1.12: ¿Cuáles son las diferencias clave más importantes entre el análisis de datos y la inteligencia de negocios? Debes mencionar solo cinco diferencias.
+
+| Aspecto / Criterio     | Análisis de Datos (Data Analysis)                                                                                | Inteligencia de Negocios (Business Intelligence)                                                                |
+|--------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 1. Objetivo Principal    | Descubrir patrones, responder preguntas específicas de investigación y explorar el porqué de los datos.          | Monitorear el rendimiento operativo, seguir KPIs y apoyar la toma de decisiones estratégicas continuas.       |
+| 2. Orientación Temporal  | Se centra en el análisis exploratorio, diagnóstico y diagnósticos ad-hoc ("¿Por qué sucedió esto?").             | Se enfoca en el estado actual e histórico del negocio ("¿Qué está pasando ahora y qué pasó?").                |
+| 3. Tipo de Datos         | Maneja datos estructurados, semiestructurados o crudos, requiriendo limpieza y preparación constante.            | Utiliza principalmente datos estructurados y consolidados en almacenes de datos (Data Warehouses).            |
+| 4. Usuarios Principales  | Analistas, científicos de datos y técnicos que realizan consultas ad-hoc e investigaciones profundas.            | Ejecutivos, gerentes de área y líderes de negocio que necesitan métricas claras y rápidas.                    |
+| 5. Productos Finales     | Informes ad-hoc, estadísticas detalladas, modelos analíticos y hallazgos específicos.                            | Paneles de control (dashboards) interactivos, reportes estandarizados y cuadros de mando.                     |

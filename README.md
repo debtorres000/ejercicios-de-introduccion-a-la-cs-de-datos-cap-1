@@ -10,7 +10,7 @@
 ![Distribución de actividades evaluadas](imagenes/grafica_ejercicio_1_3.png)
 
 ## Ejercicio 1.6
-[Descargar el diagrama del proceso BI](Ejercicios/Ejercicio_1.6.pdf)
+[Descargar el diagrama del proceso BI](Ejercicios/Ejercicio_1_6.pdf)
 
 ## Ejercicio 1.14
 ![Ejercicio 1.14](imagenes/Ejercicio_1.14.png)

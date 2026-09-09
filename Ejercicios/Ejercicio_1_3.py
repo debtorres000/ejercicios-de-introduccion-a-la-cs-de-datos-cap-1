@@ -26,6 +26,6 @@ plt.pie(porcentajes, labels=etiquetas, startangle=90)
 plt.title('Distribución de las actividades')
 plt.tight_layout()
 
-carpeta_imagenes = Path(__file__).resolve().parents[1] / 'Imagenes'
+carpeta_imagenes = Path(__file__).resolve().parents[1] / 'imagenes'
 plt.savefig(carpeta_imagenes / 'grafica_ejercicio_1_3.png', dpi=150)
 plt.show()

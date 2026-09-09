@@ -28,6 +28,6 @@ plt.ylabel('Altura (m)')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 
-carpeta_imagenes = Path(__file__).resolve().parents[1] / 'Imagenes'
+carpeta_imagenes = Path(__file__).resolve().parents[1] / 'imagenes'
 plt.savefig(carpeta_imagenes / 'grafica_ejercicio_1_2.png', dpi=150)
 plt.show()

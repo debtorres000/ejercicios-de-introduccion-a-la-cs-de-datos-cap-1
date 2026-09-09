@@ -15,6 +15,6 @@ plt.xlabel('Años')
 plt.ylabel('Contador de Muertes')
 plt.grid(True)
 
-carpeta_imagenes = Path(__file__).resolve().parents[1] / 'Imagenes'
+carpeta_imagenes = Path(__file__).resolve().parents[1] / 'imagenes'
 plt.savefig(carpeta_imagenes / 'grafica_ejercicio_1_1.png', dpi=150, bbox_inches='tight')
 plt.show()

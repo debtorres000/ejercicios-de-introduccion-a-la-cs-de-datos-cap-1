@@ -1,4 +1,7 @@
-Ejercicio 1.13 ¿Cuáles son las diferencias clave entre análisis de datos y data mining? Menciona solo 5 diferencias. 
+Ejercicio 1.13 
+¿Cuáles son las diferencias clave entre análisis de datos y data mining? 
+Menciona solo 5 diferencias. 
+
 
 El data mining forma parte del análisis de datos, ambos tienen sus ramas de interes e implican diferentes procesos. 
 

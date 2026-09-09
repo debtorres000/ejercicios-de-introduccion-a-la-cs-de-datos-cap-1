@@ -1,4 +1,3 @@
 import matplotlib as plt
 
-#Ejercicio 1.2
-
+#Ejercicio 1.3

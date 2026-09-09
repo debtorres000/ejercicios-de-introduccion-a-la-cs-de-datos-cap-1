@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from pathlib import Path
 
 # Ejercicio 1.1
 
@@ -12,4 +13,6 @@ plt.title('Muertes automovilistica por celular')
 plt.xlabel('Años')
 plt.ylabel('Contador de Muertes')
 plt.grid(True)
+carpeta_imagenes = Path(__file__).resolve().parents[1] / 'imagenes'
+plt.savefig(carpeta_imagenes / 'grafica_ejercicio_1_1.png', dpi=150, bbox_inches='tight')
 plt.show()

@@ -8,5 +8,7 @@
 
 ## Ejercicio 1.3
 ![Distribución de actividades evaluadas](imagenes/grafica_ejercicio_1_3.png)
+## Ejercicio 1.17
+![Diagrama](imagenes/imagen_diag.png)
 
 

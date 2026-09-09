@@ -21,7 +21,7 @@ etiquetas = [
     for actividad, porcentaje in datos_actividades.items()
 ]
 
-plt.figure(figsize=(8, 8))
+plt.figure(figsize=(8, 6))
 plt.pie(porcentajes, labels=etiquetas, startangle=90)
 plt.title('Distribución de las actividades')
 plt.tight_layout()

@@ -1,0 +1,9 @@
+
+
+2.5 
+¿Cómo puede la ciencia de datos ayudar a las instituciones educativas a diseñar y mejorar el contenido educativo y ofrecer nuevos programas de acuerdo con la demanda del mercado?
+
+La ciencia de datos puede analizar datos sobre los estudiantes, sus resultados y sus necesidades de aprendizaje. Con estos datos, las instituciones pueden identificar qué contenidos funcionan mejor y qué temas necesitan mejoras.
+También pueden analizar las tendencias y las necesidades del mercado laboral para saber qué conocimientos y habilidades son más demandados. Con esta información, pueden actualizar sus cursos y crear nuevos programas educativos que respondan a esas necesidades
+
+
